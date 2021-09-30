@@ -283,4 +283,13 @@ Example resetUrl;
 	    }  
 </script>
 ```
+Mail Credentials
 
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.postmarkapp.com
+MAIL_PORT=2525
+MAIL_USERNAME=976fae90-ec31-41c4-ba9d-48d39cb83708
+MAIL_PASSWORD=976fae90-ec31-41c4-ba9d-48d39cb83708
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="akhtarp@ghrix.com"
+MAIL_FROM_NAME="${APP_NAME}"
