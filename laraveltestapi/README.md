@@ -95,7 +95,6 @@ Required fields;
  1. Accept: application/json
  2. Content-Type: application/json
  
-![Set Password](https://github.com/tolgayildizz/laravel-5.7-email-verification-and-auth-via-api/blob/master/pics/set-Password.jpg?raw=true)
 
 Password change operation completed successfully. 
 
